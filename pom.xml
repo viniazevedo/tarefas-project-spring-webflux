@@ -52,6 +52,11 @@
 			<scope>test</scope>
 		</dependency>
 	
+		<dependency>
+    		        <groupId>com.heroku.sdk</groupId>
+    		        <artifactId>heroku-maven-plugin</artifactId>
+    		</dependency>
+		
 	</dependencies>
 
 	<build>
